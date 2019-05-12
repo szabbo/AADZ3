@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCV</string>
+    <string name="text_personal_info">PERSONAL INFO</string>
+    <string name="text_full_name">Full Name</string>
+    <string name="text_address">Address</string>
+    <string name="text_phone_number">Phone number</string>
+    <string name="text_email">Email</string>
+    <string name="text_work_experience">WORK EXPERIENCE</string>
+    <string name="text_education_and_training">EDUCATION AND TRAINING</string>
+    <string name="text_job_related_skills">JOB RELATED SKILLS</string>
+</resources>

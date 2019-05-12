@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BMICalaculator</string>
+    <string name="text_height">Enter your height in meters</string>
+    <string name="text_weight">Enter your weight in kilograms</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="text_underweight">Underweight</string>
+    <string name="text_normal_weight">Normal Weight</string>
+    <string name="text_overweight">Overweight</string>
+    <string name="text_obesity">Obesity</string>
+    <string name="underweight_text">An underweight person is a type of person whose body weight is considered too low to
+        be healthy.
+    </string>
+    <string name="normal_weight_text">You have a normal weight!</string>
+    <string name="overweight_text">Being overweight or fat is having more body fat than is optimally healthy.
+    </string>
+    <string name="obesity_text">Obesity is a medical condition in which excess body fat has accumulated to an extent
+        that it may have a negative effect on health.
+    </string>
+</resources>
